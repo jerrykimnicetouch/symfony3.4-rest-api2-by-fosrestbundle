@@ -59,6 +59,15 @@ It comes pre-configured with the following bundles:
 
   * **DebugBundle** (in dev/test env) - Adds Debug and VarDumper component
     integration
+    
+  * **FOSRestBundle** (in dev/test env) 
+  * **FOSUserBundle** (in dev/test env) 
+  * **FOSOAuthServerBundle** (in dev/test env) 
+  
+  * **JMSSerializerBundle** (in dev/test env) 
+  * **NelmioApiDocBundle** (in dev/test env) 
+  * **NelmioCorsBundle** (in dev/test env) 
+     
 
 All libraries and bundles included in the Symfony Standard Edition are
 released under the MIT or BSD license.
